@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedicalSensorReader</string>
+    <string name="state_init">מבצע איתחול</string>
+</resources>
